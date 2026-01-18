@@ -1,0 +1,360 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV1.png" group-title="央视频道",CCTV1
+http://192.168.10.100:15080/cqyx2.php?id=cctv1
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV2.png" group-title="央视频道",CCTV2
+http://192.168.10.100:15080/cqyx2.php?id=cctv2
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV3.png" group-title="央视频道",CCTV3
+http://192.168.10.100:15080/cqyx2.php?id=cctv3
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV4.png" group-title="央视频道",CCTV4
+http://192.168.10.100:15080/cqyx2.php?id=cctv4
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV5.png" group-title="央视频道",CCTV5
+http://192.168.10.100:15080/cqyx2.php?id=cctv5
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV5+.png" group-title="央视频道",CCTV5+
+http://192.168.10.100:15080/cqyx2.php?id=cctv5p
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV6.png" group-title="央视频道",CCTV6
+http://192.168.10.100:15080/cqyx2.php?id=cctv6
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV7.png" group-title="央视频道",CCTV7
+http://192.168.10.100:15080/cqyx2.php?id=cctv7
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV8.png" group-title="央视频道",CCTV8
+http://192.168.10.100:15080/cqyx2.php?id=cctv8
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV9.png" group-title="央视频道",CCTV9
+http://192.168.10.100:15080/cqyx2.php?id=cctv9
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV10.png" group-title="央视频道",CCTV10
+http://192.168.10.100:15080/cqyx2.php?id=cctv10
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV11.png" group-title="央视频道",CCTV11
+http://192.168.10.100:15080/cqyx2.php?id=cctv11
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV12.png" group-title="央视频道",CCTV12
+http://192.168.10.100:15080/cqyx2.php?id=cctv12
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV13.png" group-title="央视频道",CCTV13
+http://192.168.10.100:15080/cqyx2.php?id=cctv13
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV14.png" group-title="央视频道",CCTV14
+http://192.168.10.100:15080/cqyx2.php?id=cctv14
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV15.png" group-title="央视频道",CCTV15
+http://192.168.10.100:15080/cqyx2.php?id=cctv15
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV16.png" group-title="央视频道",CCTV16
+http://192.168.10.100:15080/cqyx2.php?id=cctv16
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV16.png" group-title="央视频道",CCTV16_4K
+http://192.168.10.100:15080/cqyx2.php?id=cctv16_4k
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV17.png" group-title="央视频道",CCTV17
+http://192.168.10.100:15080/cqyx2.php?id=cctv17
+
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/第一剧场.png" group-title="央视频道",第一剧场
+http://192.168.10.100:15080/cqyx2.php?id=dyjc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/风云剧场.png" group-title="央视频道",风云剧场
+http://192.168.10.100:15080/cqyx2.php?id=fyjc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://192.168.10.100:15080/cqyx2.php?id=hjjc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/风云音乐.png" group-title="央视频道",风云音乐
+http://192.168.10.100:15080/cqyx2.php?id=fyyy
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/文化精品.png" group-title="央视频道",文化精品
+http://192.168.10.100:15080/cqyx2.php?id=whjp
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/央视台球.png" group-title="央视频道",央视台球
+http://192.168.10.100:15080/cqyx2.php?id=ystq
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/风云足球.png" group-title="央视频道",风云足球
+http://192.168.10.100:15080/cqyx2.php?id=fyzq
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/高尔夫网球.png" group-title="央视频道",高尔夫网球
+http://192.168.10.100:15080/cqyx2.php?id=gefwq
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/兵器科技.png" group-title="央视频道",兵器科技
+http://192.168.10.100:15080/cqyx2.php?id=bqkj
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/女性时尚.png" group-title="央视频道",女性时尚
+http://192.168.10.100:15080/cqyx2.php?id=nxss
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CCTV4K.png" group-title="央视频道",CCTV-4K
+http://192.168.10.100:15080/cqyx2.php?id=cctv4k
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://192.168.10.100:15080/cqyx2.php?id=chcjt
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://192.168.10.100:15080/cqyx2.php?id=chcdz
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
+http://192.168.10.100:15080/cqyx2.php?id=chcym
+
+
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆卫视.png" group-title="重庆频道",重庆卫视
+http://192.168.10.100:15080/cqyx2.php?id=cqws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆新闻.png" group-title="重庆频道",重庆新闻
+http://192.168.10.100:15080/cqyx2.php?id=cqxw
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆影视.png" group-title="重庆频道",重庆影视剧
+http://192.168.10.100:15080/cqyx2.php?id=cqys
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆社会与法.png" group-title="重庆频道",重庆社会与法
+http://192.168.10.100:15080/cqyx2.php?id=cqshyf
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆红岩文化.png" group-title="重庆频道",重庆红岩文化
+http://192.168.10.100:15080/cqyx2.php?id=cqhywh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆文体娱乐.png" group-title="重庆频道",重庆文体娱乐
+http://192.168.10.100:15080/cqyx2.php?id=cqwtyl
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆新农村.png" group-title="重庆频道",重庆新农村
+http://192.168.10.100:15080/cqyx2.php?id=cqxnc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆少儿.png" group-title="重庆频道",重庆少儿
+http://192.168.10.100:15080/cqyx2.php?id=cqse
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆红叶.png" group-title="重庆频道",重庆红叶
+http://192.168.10.100:15080/cqyx2.php?id=cqhy
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆汽摩.png" group-title="重庆频道",重庆汽摩
+http://192.168.10.100:15080/cqyx2.php?id=cqqm
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆移动.png" group-title="重庆频道",重庆移动
+http://192.168.10.100:15080/cqyx2.php?id=cqyd
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/酉阳综合.png" group-title="重庆频道",酉阳综合
+http://192.168.10.100:15080/cqyx2.php?id=yyzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/黔江综合.png" group-title="重庆频道",黔江综合
+http://192.168.10.100:15080/cqyx2.php?id=qjzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/秀山综合.png" group-title="重庆频道",秀山综合
+http://192.168.10.100:15080/cqyx2.php?id=xszh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/武隆综合.png" group-title="重庆频道",武隆综合
+http://192.168.10.100:15080/cqyx2.php?id=wlzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/涪陵综合.png" group-title="重庆频道",涪陵综合
+http://192.168.10.100:15080/cqyx2.php?id=flzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/万州综合.png" group-title="重庆频道",万州综合
+http://192.168.10.100:15080/cqyx2.php?id=wzzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/璧山综合.png" group-title="重庆频道",璧山综合
+http://192.168.10.100:15080/cqyx2.php?id=bszh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/丰都综合.png" group-title="重庆频道",丰都综合
+http://192.168.10.100:15080/cqyx2.php?id=fdzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/合川综合.png" group-title="重庆频道",合川综合
+http://192.168.10.100:15080/cqyx2.php?id=hczh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/开州综合.png" group-title="重庆频道",开州综合
+http://192.168.10.100:15080/cqyx2.php?id=kzzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/荣昌综合.png" group-title="重庆频道",荣昌综合
+http://192.168.10.100:15080/cqyx2.php?id=rczh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/铜梁综合.png" group-title="重庆频道",铜梁综合
+http://192.168.10.100:15080/cqyx2.php?id=tlzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/永川综合.png" group-title="重庆频道",永川综合
+http://192.168.10.100:15080/cqyx2.php?id=yczh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/云阳综合.png" group-title="重庆频道",云阳综合
+http://192.168.10.100:15080/cqyx2.php?id=yunyzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/长寿综合.png" group-title="重庆频道",长寿综合
+http://192.168.10.100:15080/cqyx2.php?id=cszh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/巫溪综合.png" group-title="重庆频道",巫溪综合
+http://192.168.10.100:15080/cqyx2.php?id=wxzh
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/万盛综合.png" group-title="重庆频道",万盛综合
+http://192.168.10.100:15080/cqyx2.php?id=wszh
+
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/北京卫视.png" group-title="卫视频道",北京卫视
+http://192.168.10.100:15080/cqyx2.php?id=bjws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/东方卫视.png" group-title="卫视频道",东方卫视
+http://192.168.10.100:15080/cqyx2.php?id=dfws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/天津卫视.png" group-title="卫视频道",天津卫视
+http://192.168.10.100:15080/cqyx2.php?id=tjws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://192.168.10.100:15080/cqyx2.php?id=hljws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://192.168.10.100:15080/cqyx2.php?id=jlws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://192.168.10.100:15080/cqyx2.php?id=lnws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://192.168.10.100:15080/cqyx2.php?id=nmws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://192.168.10.100:15080/cqyx2.php?id=xjws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/河北卫视.png" group-title="卫视频道",河北卫视
+http://192.168.10.100:15080/cqyx2.php?id=hbws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/河南卫视.png" group-title="卫视频道",河南卫视
+http://192.168.10.100:15080/cqyx2.php?id=hnws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://192.168.10.100:15080/cqyx2.php?id=nxws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/青海卫视.png" group-title="卫视频道",青海卫视
+http://192.168.10.100:15080/cqyx2.php?id=qhws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://192.168.10.100:15080/cqyx2.php?id=jsws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://192.168.10.100:15080/cqyx2.php?id=ahws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://192.168.10.100:15080/cqyx2.php?id=hubws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/四川卫视.png" group-title="卫视频道",四川卫视
+http://192.168.10.100:15080/cqyx2.php?id=scws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://192.168.10.100:15080/cqyx2.php?id=xzws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://192.168.10.100:15080/cqyx2.php?id=zjws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/江西卫视.png" group-title="卫视频道",江西卫视
+http://192.168.10.100:15080/cqyx2.php?id=jxws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://192.168.10.100:15080/cqyx2.php?id=hunws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://192.168.10.100:15080/cqyx2.php?id=gzws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/云南卫视.png" group-title="卫视频道",云南卫视
+http://192.168.10.100:15080/cqyx2.php?id=ynws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/东南卫视.png" group-title="卫视频道",东南卫视
+http://192.168.10.100:15080/cqyx2.php?id=dnws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/广东卫视.png" group-title="卫视频道",广东卫视
+http://192.168.10.100:15080/cqyx2.php?id=gdws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://192.168.10.100:15080/cqyx2.php?id=szws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/广西卫视.png" group-title="卫视频道",广西卫视
+http://192.168.10.100:15080/cqyx2.php?id=gxws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/海南卫视.png" group-title="卫视频道",海南卫视
+http://192.168.10.100:15080/cqyx2.php?id=hinws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://192.168.10.100:15080/cqyx2.php?id=ssws
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://192.168.10.100:15080/cqyx2.php?id=btws
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/CGTN.png" group-title="其他频道",CGTN
+http://192.168.10.100:15080/cqyx2.php?id=cgtn
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/中国教育1台.png" group-title="其他频道",中国教育1台
+http://192.168.10.100:15080/cqyx2.php?id=cetv1
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/中国教育4台.png" group-title="其他频道",中国教育4台
+http://192.168.10.100:15080/cqyx2.php?id=cetv4
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/早期教育.png" group-title="其他频道",早期教育
+http://192.168.10.100:15080/cqyx2.php?id=zqjy
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/金色学堂.png" group-title="其他频道",金色学堂
+http://192.168.10.100:15080/cqyx2.php?id=jsxt
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/山东教育.png" group-title="其他频道",山东教育卫视
+http://192.168.10.100:15080/cqyx2.php?id=sdjy
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/北京纪实科教.png" group-title="其他频道",北京纪实科教
+http://192.168.10.100:15080/cqyx2.php?id=bjjskj
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/求索纪录.png" group-title="其他频道",求索纪录
+http://192.168.10.100:15080/cqyx2.php?id=qsjl
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/中国天气.png" group-title="其他频道",中国天气
+http://192.168.10.100:15080/cqyx2.php?id=zgtq
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/都市剧场.png" group-title="其他频道",都市剧场
+http://192.168.10.100:15080/cqyx2.php?id=dsjc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重温经典.png" group-title="其他频道",重温经典
+http://192.168.10.100:15080/cqyx2.php?id=cwjd
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/爱看导视.png" group-title="其他频道",爱看导视
+http://192.168.10.100:15080/cqyx2.php?id=akds
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/卡酷少儿.png" group-title="其他频道",卡酷少儿
+http://192.168.10.100:15080/cqyx2.php?id=bjkk
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/金鹰卡通.png" group-title="其他频道",金鹰卡通
+http://192.168.10.100:15080/cqyx2.php?id=jykt
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/动漫秀场.png" group-title="其他频道",动漫秀场
+http://192.168.10.100:15080/cqyx2.php?id=dmxc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/劲爆体育.png" group-title="其他频道",劲爆体育
+http://192.168.10.100:15080/cqyx2.php?id=jbty
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/快乐垂钓.png" group-title="其他频道",快乐垂钓
+http://192.168.10.100:15080/cqyx2.php?id=klcd
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/四海钓鱼.png" group-title="其他频道",四海钓鱼
+http://192.168.10.100:15080/cqyx2.php?id=shdy
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/游戏风云.png" group-title="其他频道",游戏风云
+http://192.168.10.100:15080/cqyx2.php?id=yxfy
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/天元围棋.png" group-title="其他频道",天元围棋
+http://192.168.10.100:15080/cqyx2.php?id=tywq
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/东方财经.png" group-title="其他频道",东方财经
+http://192.168.10.100:15080/cqyx2.php?id=dfcj
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/财富天下.png" group-title="其他频道",财富天下
+http://192.168.10.100:15080/cqyx2.php?id=cftx
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/生活时尚.png" group-title="其他频道",生活时尚
+http://192.168.10.100:15080/cqyx2.php?id=shss
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/中华特产.png" group-title="其他频道",中华特产
+http://192.168.10.100:15080/cqyx2.php?id=zhtc
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/法治天地.png" group-title="其他频道",法治天地
+http://192.168.10.100:15080/cqyx2.php?id=fztd
+
+#EXTINF:-1 tvg-logo="https://gitee.com/snugness5268/tvicon/raw/main/icon/重庆党员教育.png" group-title="其他频道",重庆党员教育
+http://192.168.10.100:15080/cqyx2.php?id=dyjy
